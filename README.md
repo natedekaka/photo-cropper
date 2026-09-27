@@ -106,3 +106,7 @@ Alur export: `GdkPixbuf` (decode) → koordinat display dipetakan balik ke koord
 - Crop hanya, tidak ada rotasi, koreksi warna, atau auto-facial detection.
 - Berjalan di Linux/BSD saja (PyGObject + GTK3). Tidak ada build untuk Windows atau macOS.
 - Foto dimuat penuh ke memori (`GdkPixbuf` + salinan PIL), jadi tidak ideal untuk ribuan foto resolusi besar sekaligus.
+
+## Lisensi
+
+[MIT](LICENSE) — bebas dipakai, modifikasi, dan distribusi wajib menyertakan teks lisensi.
